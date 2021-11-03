@@ -9,6 +9,10 @@
     color: black;
     background-color: #000000;
 }
+.btn_contact{
+    background-color: #eb4d04 !important;
+    color: black;
+}
 body {
     margin: 0;
     padding: 0;
