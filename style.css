@@ -1,3 +1,14 @@
+/*********************************************/
+    /* Modif apporter en css */
+/*********************************************/
+.keywords{
+    color:#cccccc;
+    font-size:20px;
+}
+.btn_envoyer{
+    color: black;
+    background-color: #000000;
+}
 body {
     margin: 0;
     padding: 0;
@@ -6,7 +17,6 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
 a,
 button {
     transition: all .3s ease-in-out;
@@ -703,7 +713,11 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
 }
-
+.social span {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
 h2 {
     font-size: 22px;
     line-height: 1.4em;
