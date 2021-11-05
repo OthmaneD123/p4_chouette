@@ -13,6 +13,19 @@
     background-color: black !important;
     color: white !important;
 }
+.texte_color{
+    color: white !important;
+}
+.color_bloc_footer{
+    background-color: #db4500 !important;
+    color: white !important;
+}
+.color_icone{
+    color: black !important;
+}
+
+
+
 body {
     margin: 0;
     padding: 0;
